@@ -14,7 +14,8 @@
 get_header(); ?>
 
 	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
+	<!--<img src="<?php bloginfo('stylesheet_directory'); ?>/images/limes.jpg"/> -->
+	<main id="main" class="site-main" role="main">
 		<?php if ( have_posts() ) : ?>
 
 			<?php /* Start the Loop */ ?>

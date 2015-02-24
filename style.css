@@ -727,7 +727,7 @@ a:active {
 	margin-right: auto;
 }
 
-.entry-title {
+.page .entry-title {
 	border: 0;
 	clip: rect (0 0 0 0);
 	height: 1px;
